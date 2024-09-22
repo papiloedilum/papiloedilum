@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Kenneth Here! 
+A student majoring in Information Science in Our lady of fatima university.
+Currently learning C language and Java!  
 <!--
 **papiloedilum/papiloedilum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
